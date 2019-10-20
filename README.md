@@ -1,3 +1,5 @@
-# Interactive-Resume
+# Tableau-Projects
 
-https://public.tableau.com/profile/diven.kumar.sambhwani#!/vizhome/Resume_179/Resume?publish=yes
+Go to the link below to find my Tableau projects:
+
+https://public.tableau.com/profile/diven.kumar.sambhwani#!/
